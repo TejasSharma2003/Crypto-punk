@@ -1,0 +1,60 @@
+.mainDiv
+{
+    display:flex;
+}
+
+.highLigthedPunk
+{
+    width:20%;
+
+}
+.highLigthedPunk img
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+}
+.name h1
+{
+    color:#fff;
+    font-size: 4rem;
+}
+.details h1
+{
+    color:#fff;
+}
+.details
+{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+    position:absolute;
+    bottom:0;
+}
+.handles
+{
+    display:flex;
+}
+
+.userInfo
+{
+    width:85%;
+    position:relative;
+    margin-left:1rem;
+}
+
+.circel
+{
+
+    border-radius: 50px;
+    border:2px solid #fff;
+    height: 50px;
+    padding:.3rem;
+    margin: 0 .4rem;
+    
+}
+.circel img 
+{
+    width:100%;
+    height: 50px;
+}
